@@ -1,10 +1,11 @@
 {
-  "events":[
+  "posts": [
     {
-      "id": 01,
-      "name": "Mahi",
-      "description": "UI Developer",
-      "Title": "Lead Technology"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
