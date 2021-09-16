@@ -1,4 +1,14 @@
 {
+  
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "events":[
     {
       "id": 01,
