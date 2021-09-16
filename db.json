@@ -7,5 +7,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "events":[
+    {
+      "id": 1,
+      "Title": "Lead Technology"
+    }
+  ]
 }
