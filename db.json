@@ -1,5 +1,4 @@
 {
-  
   "posts": [
     {
       "id": 1,
@@ -8,11 +7,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "events":[
-    {
-      "id": 01,
-      "Title": "Lead Technology"
-    }
-  ]
+  }
 }
