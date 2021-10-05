@@ -9,9 +9,60 @@
     "name": "typicode"
   },
   "events":[
-    {
-      "id": 1,
-      "Title": "Lead Technology"
-    }
-  ]
+  {
+    "eventId": 1001,
+    "eventCode": "SEMJQ3",
+    "eventName": "Career fair event 1",
+    "description": "Seminar will discuss all the documentation related",
+    "startDate": "2021-10-05T00:43:16.829Z",
+    "endDate": "2021-10-05T00:43:16.829Z",
+    "fees": 800,
+    "seatsFilled": 70,
+    "logo": "images/jq3.png"
+  },
+  {
+    "eventId": 1002,
+    "eventCode": "SEMNG1",
+    "eventName": "Seminar on event 2",
+    "description": "Resume building services",
+    "startDate": "2021-10-05T00:43:16.829Z",
+    "endDate": "2021-10-05T00:43:16.829Z",
+    "fees": 600,
+    "seatsFilled": 50,
+    "logo": "images/ng1.png"
+  },
+  {
+    "eventId": 1003,
+    "eventCode": "SEMNG2",
+    "eventName": "Job Fairs",
+    "description": "Seminar will discuss on interview preparation",
+    "startDate": "2021-10-05T00:43:16.829Z",
+    "endDate": "2021-10-05T00:43:16.829Z",
+    "fees": 1000,
+    "seatsFilled": 80,
+    "logo": "images/ng2.png"
+  },
+  {
+    "eventId": 1004,
+    "eventCode": "SEMNG4",
+    "eventName": "A live job fair events",
+    "description": "Interviews and career events",
+    "startDate": "2021-10-05T00:43:16.829Z",
+    "endDate": "2021-10-05T00:43:16.829Z",
+    "fees": 1000,
+    "seatsFilled": 76,
+    "logo": "images/ng2.png"
+  },
+  {
+    "eventId": 1005,
+    "eventCode": "SEMBS3",
+    "eventName": "Connecct HR",
+    "description": "Connect to your HR and get valuable feedback",
+    "startDate": "2021-10-05T00:43:16.829Z",
+    "endDate": "2021-10-05T00:43:16.829Z",
+    "fees": 500,
+    "seatsFilled": 34,
+    "logo": "images/bs3.png"
+  }
+]
 }
